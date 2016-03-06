@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pete Markowsky's blog</title>
+    <title>My super title - Pete Markowsky's blog</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -9,15 +9,22 @@
 
 
 
-<link rel="canonical" href="">
-        <meta name="author" content="Pete Markowsky" />
+<link rel="canonical" href="/my-super-post.html">
 
-    <!-- Open Graph tags -->
+        <meta name="author" content="Alexis Metaireau" />
+        <meta name="keywords" content="pelican,publishing" />
+        <meta name="description" content="Short version for index and feeds" />
+
         <meta property="og:site_name" content="Pete Markowsky's blog" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="Pete Markowsky's blog"/>
-        <meta property="og:url" content=""/>
-        <meta property="og:description" content="Pete Markowsky's blog"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="My super title"/>
+        <meta property="og:url" content="/my-super-post.html"/>
+        <meta property="og:description" content="Short version for index and feeds"/>
+        <meta property="article:published_time" content="2010-12-03" />
+            <meta property="article:section" content="Python" />
+            <meta property="article:tag" content="pelican" />
+            <meta property="article:tag" content="publishing" />
+            <meta property="article:author" content="Alexis Metaireau" />
 
 
     <!-- Bootstrap -->
@@ -63,13 +70,44 @@ Pete Markowsky's blog            </a>
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
-            <article>
-                <h2><a href="/hello-world.html">Hello World!</a></h2>
-                <div class="summary"><p>New blog for 2016</p>
-                    <a class="btn btn-default btn-xs" href="/hello-world.html">more ...</a>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/my-super-post.html"
+                       rel="bookmark"
+                       title="Permalink to My super title">
+                        My super title
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2010-12-03T10:20:00-05:00"> Fri 03 December 2010</time>
+    </span>
+
+
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="/tag/pelican.html">pelican</a>
+        /
+	<a href="/tag/publishing.html">publishing</a>
+    
+</footer><!-- /.post-info -->                    </div>
                 </div>
-            </article>
-            <hr/>
+                <p>This is the content of my super blog post.</p>
+<div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="s">&quot;HELLO WORLD!&quot;</span><span class="p">)</span>
+</pre></div>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
 
         </div>
     </div>
@@ -78,7 +116,7 @@ Pete Markowsky's blog            </a>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2016 Pete Markowsky
+         <div class="col-xs-10">&copy; 2010 Pete Markowsky
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
