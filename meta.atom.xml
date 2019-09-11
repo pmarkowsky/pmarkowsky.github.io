@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pete Markowsky's blog</title><link href="http://blog.markowsky.us/" rel="alternate"></link><link href="http://blog.markowsky.us/feeds/meta.atom.xml" rel="self"></link><id>http://blog.markowsky.us/</id><updated>2019-09-10T15:23:00-04:00</updated><entry><title>Sabatical</title><link href="http://blog.markowsky.us/sabatical.html" rel="alternate"></link><updated>2019-09-10T15:23:00-04:00</updated><author><name>Pete Markowsky</name></author><id>tag:blog.markowsky.us,2019-09-10:sabatical.html</id><summary type="html">&lt;p&gt;For the next three months, I'm on a sabatical from
+&lt;a href="https://capsule8.com"&gt;Capsule8&lt;/a&gt;. To keep my wits about me and in general to
+try and improve my writing and use of time I'm planning on updating this blog
+more regularly. With that said I'm hoping to effectively use the time that I'm
+not spending with my family doing some projects and reading.&lt;/p&gt;
+&lt;p&gt;Some project ideas:
+  - A Github actions based app to create kubernetes clusters in a gitops style
+    workflow
+  - A Github actions based journal app
+  - A vulnerability scanner for container images similar to &lt;a href="https://github.com/aquasecurity/trivy"&gt;trivy&lt;/a&gt;
+  - Learning rust
+  - Improving my C++11 skills
+  - Relearning terraform
+  - Relearning make &amp;amp; cmake
+  - Writing lambdas / cloud functions
+  - Getting even more familiar with Kubernetes and Other FaaS platforms
+  - Getting familiar with kubernetes projects e.g. virtualkubelet, prow
+  - &lt;a href="https://gohugo.io/?ref=stackshare"&gt;Moving the blog to hugo&lt;/a&gt;
+  - A few CTF / Reversing projects to get back in practice
+  - Making some open source contributions&lt;/p&gt;
+&lt;p&gt;Some books I'm hoping to read:
+  - &lt;a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592"&gt;The Phoenix Project&lt;/a&gt;
+  - &lt;a href="https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook/dp/B06XKHGJHP/ref=sr_1_2?keywords=terraform&amp;amp;qid=1568144201&amp;amp;s=gateway&amp;amp;sr=8-2"&gt;Terraform Up and Running&lt;/a&gt;
+  - &lt;a href="https://www.amazon.com/Modern-CTO-Joel-Beasley/dp/0692076069/ref=sr_1_1?keywords=modern+cto&amp;amp;qid=1568144218&amp;amp;s=gateway&amp;amp;sr=8-1"&gt;Modern CTO&lt;/a&gt;
+  - &lt;a href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=pd_sbs_14_2/138-0352009-8539652?_encoding=UTF8&amp;amp;pd_rd_i=1491973897&amp;amp;pd_rd_r=58f4cad6-435f-43dd-9355-3971f7712c33&amp;amp;pd_rd_w=UqR1I&amp;amp;pd_rd_wg=xgNId&amp;amp;pf_rd_p=d66372fe-68a6-48a3-90ec-41d7f64212be&amp;amp;pf_rd_r=WKRNFP0E4CETDCKT00PR&amp;amp;psc=1&amp;amp;refRID=WKRNFP0E4CETDCKT00PR"&gt;The Managers Path&lt;/a&gt;
+  - &lt;a href="https://www.amazon.com/Racing-Beam-Computer-Platform-Studies/dp/026201257X/ref=sr_1_1?keywords=racing+the+beam&amp;amp;qid=1568144278&amp;amp;s=gateway&amp;amp;sr=8-1"&gt;Racing the Beam&lt;/a&gt;
+  - &lt;a href="https://www.amazon.com/C-Programming-Language-4th/dp/0321563840/ref=sr_1_4?keywords=c%2B%2B&amp;amp;qid=1568144412&amp;amp;s=gateway&amp;amp;sr=8-4"&gt;The C++ Programming Language 4th ed&lt;/a&gt; &lt;/p&gt;</summary><category term="meta"></category><category term="pelican"></category></entry><entry><title>Hello World!</title><link href="http://blog.markowsky.us/hello-world.html" rel="alternate"></link><updated>2016-03-06T10:58:00-05:00</updated><author><name>Pete Markowsky</name></author><id>tag:blog.markowsky.us,2016-03-06:hello-world.html</id><summary type="html">&lt;p&gt;After losing my old blog to a Google accounts error leaving it stranded on
+blogger, I've been trying to find a decent platform for a while. I've finally
+settled on pelican with github pages. So far so good.  Syntax highlighting as
+you can see below is pretty straight forward, I can write content in markdown
+and the &lt;a href="http://docs.getpelican.com/en/3.6.3/index.html"&gt;pelican docs&lt;/a&gt; are
+incredibly easy.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;HELLO WORLD!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I'm hoping to use the &lt;a href="https://archive.org/web/"&gt;wayback machine&lt;/a&gt; to restore some of my old content over the next few weeks.&lt;/p&gt;</summary><category term="meta"></category><category term="pelican"></category></entry></feed>
