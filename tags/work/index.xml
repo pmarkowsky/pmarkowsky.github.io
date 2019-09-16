@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on Pete Markowsky&#39;s Blog</title>
-    <link>/tags/life/</link>
-    <description>Recent content in life on Pete Markowsky&#39;s Blog</description>
+    <title>work on Pete Markowsky&#39;s Blog</title>
+    <link>/tags/work/</link>
+    <description>Recent content in work on Pete Markowsky&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Sep 2019 23:26:34 -0400</lastBuildDate>
     
-	<atom:link href="/tags/life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/2019/09/sabatical/</guid>
       <description>For the next three months, I&amp;rsquo;m on a sabatical from Capsule8. To keep my wits about me and in general to try and improve my writing and use of time I&amp;rsquo;m planning on updating this blog more regularly. With that said I&amp;rsquo;m hoping to effectively use the time that I&amp;rsquo;m not spending with my family doing some projects and reading.
 Some project ideas: * A Github actions based app to create kubernetes clusters in a gitops style workflow</description>
-    </item>
-    
-    <item>
-      <title>Switching to Hugo</title>
-      <link>/2019/09/switching-to-hugo/</link>
-      <pubDate>Tue, 10 Sep 2019 22:00:42 -0400</pubDate>
-      
-      <guid>/2019/09/switching-to-hugo/</guid>
-      <description>After so many weeks of programming in go, I&amp;rsquo;ve decided to move the blog to hugo and github pages. I tried pelican but it just didn&amp;rsquo;t stick, lets see if this goes any better.</description>
     </item>
     
   </channel>

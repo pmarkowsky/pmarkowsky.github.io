@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Pete Markowsky&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2019 22:00:42 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 23:26:34 -0400</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sabatical</title>
+      <link>/2019/09/sabatical/</link>
+      <pubDate>Tue, 10 Sep 2019 23:26:34 -0400</pubDate>
+      
+      <guid>/2019/09/sabatical/</guid>
+      <description>For the next three months, I&amp;rsquo;m on a sabatical from Capsule8. To keep my wits about me and in general to try and improve my writing and use of time I&amp;rsquo;m planning on updating this blog more regularly. With that said I&amp;rsquo;m hoping to effectively use the time that I&amp;rsquo;m not spending with my family doing some projects and reading.
+Some project ideas: * A Github actions based app to create kubernetes clusters in a gitops style workflow</description>
+    </item>
     
     <item>
       <title>Switching to Hugo</title>
