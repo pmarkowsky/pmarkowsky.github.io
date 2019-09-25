@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Pete Markowsky&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2019 22:00:42 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 11:26:34 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>life</title>
       <link>/tags/life/</link>
-      <pubDate>Tue, 10 Sep 2019 22:00:42 -0400</pubDate>
+      <pubDate>Tue, 24 Sep 2019 11:26:34 -0400</pubDate>
       
       <guid>/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>/tags/work/</link>
+      <pubDate>Tue, 24 Sep 2019 11:26:34 -0400</pubDate>
+      
+      <guid>/tags/work/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@
     <description>Recent content in work on Pete Markowsky&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2019 23:26:34 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 11:26:34 -0400</lastBuildDate>
     
 	<atom:link href="/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,11 @@
     <item>
       <title>Sabatical</title>
       <link>/2019/09/sabatical/</link>
-      <pubDate>Tue, 10 Sep 2019 23:26:34 -0400</pubDate>
+      <pubDate>Tue, 24 Sep 2019 11:26:34 -0400</pubDate>
       
       <guid>/2019/09/sabatical/</guid>
-      <description>For the next three months, I&amp;rsquo;m on a sabatical from Capsule8. To keep my wits about me and in general to try and improve my writing and use of time I&amp;rsquo;m planning on updating this blog more regularly. With that said I&amp;rsquo;m hoping to effectively use the time that I&amp;rsquo;m not spending with my family doing some projects and reading.
-Some project ideas: * A Github actions based app to create kubernetes clusters in a gitops style workflow</description>
+      <description>For the next few months, I&amp;rsquo;ll be on a sabbatical from Capsule8. To keep my wits about me and in an attempt to improve my writing, I’m planning on updating this blog more, weekly. Aside from this blog, I’m hoping to effectively use the rest of the time with my family, reading, and writing up some small projects.
+Over the next few weeks, I&amp;rsquo;m hoping to cover a few application ideas related to GitHub actions, some talks, and book reviews.</description>
     </item>
     
   </channel>
